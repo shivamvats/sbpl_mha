@@ -1,5 +1,5 @@
 <package>
-  <name>sbpl</name>
+  <name>sbpl_mha</name>
   <version>1.0.0</version>
   <description>A library of search-based planning algorithms</description>
   <maintainer email="maximl@seas.upenn.edu">Maxim Likhachev</maintainer>

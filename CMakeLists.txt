@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 2.8.3)
-project(sbpl)
+project(sbpl_mha)
 find_package(catkin REQUIRED COMPONENTS roscpp)
 
 set(ROS_BUILD_TYPE Release)
